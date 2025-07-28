@@ -19,6 +19,6 @@ A simple weather forecast web application that shows current weather and hourly 
 ## Screenshots
 
 <img width="1919" height="844" alt="image" src="https://github.com/user-attachments/assets/b7998a30-40a6-48af-899d-e1927a55e054" />
-
+<img width="1919" height="847" alt="image" src="https://github.com/user-attachments/assets/855f77c5-591f-41c0-9a2c-8d1a228d8b13" />
 
 
